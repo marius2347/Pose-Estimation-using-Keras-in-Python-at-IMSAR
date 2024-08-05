@@ -1,4 +1,4 @@
-<h1> MPII Human Pose - DL Python Project</h1>
+<h1> MPII Human Pose - IMSAR PROJECT</h1>
 <br>
 <h2>Features</h2>
 <ul>
