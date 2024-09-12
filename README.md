@@ -5,7 +5,7 @@
     <li>Visualize images with keypoints</li>
     <li>Predict keypoints, MSE: 4.66</li>
     <li>Normalized images</li>
-    <li>Deep Learning (BatchNormalization + Conv2D + MaxPooling2D + Droput)</li>
+    <li>Deep Learning (BatchNormalization + Conv2D + MaxPooling2D + Dropout)</li>
     <li>Callbacks: Dynamic learning rate + early stopping</li>
     <li>Keypoints to .json file, best_mode.keras, model.weights.h5</li>
 </ul>
