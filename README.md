@@ -1,4 +1,4 @@
-<h1> MPII Human Pose - IMSAR PROJECT</h1>
+<h1>Pose Estimation using Keras in Python at IMSAR</h1>
 <br>
 <h2>Features</h2>
 <ul>
