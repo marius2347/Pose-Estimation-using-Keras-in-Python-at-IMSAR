@@ -10,16 +10,6 @@
     <li>Keypoints to .json file, best_mode.keras, model.weights.h5</li>
 </ul>
 
-<h2>Acknowledgments</h2>
-
-<b> Python3: http://bit.ly/python3-certifications </b>
-<br>
-<b> Machine Learning: https://bit.ly/machine-learning-certification <b>
-<br>
-
-<h2>Links</h2>
-
-<b>MPII Pose Estimation: http://human-pose.mpi-inf.mpg.de/</b>
 <br>
 
 <h2>Photo</h2>
